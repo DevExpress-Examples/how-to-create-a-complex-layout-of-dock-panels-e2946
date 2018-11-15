@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/DXDocking_Layout/MainPage.xaml) (VB: [MainPage.xaml](./VB/DXDocking_Layout/MainPage.xaml))
+<!-- default file list end -->
 # How to create a complex layout of dock panels 
 
 
